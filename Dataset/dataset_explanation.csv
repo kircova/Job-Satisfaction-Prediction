@@ -1,0 +1,55 @@
+﻿Column;Question
+ID;Unique ID assigned by system
+GenderSelect;Select your gender identity. - Selected Choice
+Country;Select the country you currently live in.
+Age;What's your age?
+EmploymentStatus;What's your current employment status?
+CodeWriter;Do you write code to analyze data in your current job, freelance contracts, or most recent job if retired?
+CurrentJobTitleSelect;Select the option that's most similar to your current job/professional title (or most recent title if retired). - Selected Choice
+TitleFit;How adequately do you feel your title describes what you do (or what you did if retired)?
+CurrentEmployerType;Which of the following describe your current employer (or most recent employer if retired)? (Select all that apply)
+MLToolNextYearSelect;Which tool or technology are you most excited about learning in the next year? (Select one option) - Selected Choice
+MLMethodNextYearSelect;Which ML/DS method are you most excited about learning in the next year? (Select one option) - Selected Choice
+LanguageRecommendationSelect;What programming language would you recommend a new data scientist learn first? (Select one option) - Selected Choice
+LearningPlatformUsefulnessBlogs;How useful did you find these platforms & resources for learning data science skills? - Blogs
+LearningPlatformUsefulnessKaggle;How useful did you find these platforms & resources for learning data science skills? - Kaggle
+LearningPlatformUsefulnessCourses;How useful did you find these platforms & resources for learning data science skills? - Online courses
+LearningPlatformUsefulnessProjects;How useful did you find these platforms & resources for learning data science skills? - Personal Projects
+LearningPlatformUsefulnessSO;How useful did you find these platforms & resources for learning data science skills? - Stack Overflow Q&A
+LearningPlatformUsefulnessTextbook;How useful did you find these platforms & resources for learning data science skills? - Textbook
+LearningPlatformUsefulnessYouTube;How useful did you find these platforms & resources for learning data science skills? - YouTube Videos
+DataScienceIdentitySelect;Do you currently consider yourself a data scientist? - Selected Choice
+FormalEducation;Which level of formal education have you attained?
+MajorSelect;Which best describes your undergraduate major? - Selected Choice
+Tenure;How long have you been writing code to analyze data?
+PastJobTitlesSelect;Select all other job titles you've held in the past 10 years? (Select all that apply) - Selected Choice
+MLSkillsSelect;In which areas of machine learning do you consider yourself competent? (Select all that apply) - Selected Choice
+MLTechniquesSelect;In which machine learning techniques do you consider yourself competent? (Select all that apply) - Selected Choice
+EmployerIndustry;Which industry is your current employer/contract in (or most recent employer if retired)? - Selected Choice
+EmployerSize;How many employees work at your current or most recent company?
+WorkProductionFrequency;At work, how often do the models you build get put into production?
+WorkAlgorithmsSelect;At work, which algorithms/analytic methods do you typically use? (Select all that apply) - Selected Choice
+WorkToolsFrequencyPython;At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - Python
+WorkToolsFrequencyR;At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - R
+WorkToolsFrequencySQL;At work, how often did you use the following data science/analytics tools, technologies, and languages this past year? - SQL
+WorkMethodsFrequencyCross-Validation;At work, how often do you use the following data science methods? - Cross-Validation
+WorkMethodsFrequencyDataVisualization;At work, how often do you use the following data science methods? - Data Visualization
+WorkMethodsFrequencyDecisionTrees;At work, how often do you use the following data science methods? - Decision Trees
+WorkMethodsFrequencyLogisticRegression;At work, how often do you use the following data science methods? - Logistic Regression
+WorkMethodsFrequencyNeuralNetworks;At work, how often do you use the following data science methods? - Neural Networks
+WorkMethodsFrequencyPCA;At work, how often do you use the following data science methods? - PCA and Dimensionality Reduction
+WorkMethodsFrequencyRandomForests;At work, how often do you use the following data science methods? - Random Forests
+WorkMethodsFrequencyTimeSeriesAnalysis;At work, how often do you use the following data science methods? - Time Series Analysis
+WorkChallengeFrequencyPolitics;At work, how often did you experience these barriers or challenges within the past year? - Company politics / Lack of management/financial support for a data science team
+WorkChallengeFrequencyUnusedResults;At work, how often did you experience these barriers or challenges within the past year? - Data Science results not used by business decision makers
+WorkChallengeFrequencyDirtyData;At work, how often did you experience these barriers or challenges within the past year? - Dirty data
+WorkChallengeFrequencyExplaining;At work, how often did you experience these barriers or challenges within the past year? - Explaining data science to others
+WorkChallengeFrequencyTalent;At work, how often did you experience these barriers or challenges within the past year? - Lack of data science talent in the organization
+WorkChallengeFrequencyClarity;At work, how often did you experience these barriers or challenges within the past year? - The lack of a clear question to be answering, or a clear direction to go in, with the available data
+WorkChallengeFrequencyDataAccess;At work, how often did you experience these barriers or challenges within the past year? - Unavailability of/difficult access to data
+CompensationScore;Indicator for compensation of the employee.
+WorkDataVisualizations;At work, what proportion of your analytics projects incorporate data visualization?
+WorkInternalVsExternalTools;At work, to what degree does your team use interval versus external resources for data science projects? (Select one option)
+WorkMLTeamSeatSelect;At work, where does the data scientist team sit within the organization? - Selected Choice
+RemoteWork;How often do you work remotely?
+JobSatisfaction;On a scale from 0 (Highly Dissatisfied) - 10 (Highly Satisfied), how satisfied are you with your current job?
